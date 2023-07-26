@@ -65,7 +65,8 @@
 .formulario{
     padding-top: 5px;
     margin: 0 auto;
-    width: 50%;
+    width: 60%;
+    padding-bottom: 15%;
 }
 .texto-area{
     font-size: 12px;
